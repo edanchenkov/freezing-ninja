@@ -20,7 +20,7 @@ If there are prolems with SSH and connection restriction, check this <a href="ht
 
 ###Run mongo
 
-Run mondo manually
+Run mongo manually
 
      mongod 
 
